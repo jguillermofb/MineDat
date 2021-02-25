@@ -7,7 +7,7 @@
 
 [Ejercicios base de datos](https://github.com/jguillermofb/MineDat/blob/main/Ej1_BasesDatos_Equipo_1.pdf)
 
-[Problemas basicos python1](https://github.com/jguillermofb/MineDat/blob/main/Problemas%20Basicos%20Python%201.ipynb)
+[Problemas basicos python1](https://github.com/jguillermofb/MineDat/blob/main/Problemas%20Basicos%20Python%201%20(1).ipynb)
 
 ## Fase II
 
