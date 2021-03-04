@@ -9,6 +9,8 @@
 
 [Problemas basicos python1](https://github.com/jguillermofb/MineDat/blob/main/Problemas%20Basicos%20Python%201%20(1).ipynb)
 
+[Ejercicio Limpieza de Datos](https://github.com/vanessalinares/MineriaDeDatos002/blob/main/Ej_Limpieza_Equipo1.ipynb)
+
 ## Fase II
 
 ## Fase III
