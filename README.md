@@ -11,6 +11,8 @@
 
 [Ejercicio Limpieza de Datos](https://github.com/vanessalinares/MineriaDeDatos002/blob/main/Ej_Limpieza_Equipo1.ipynb)
 
+[Primer Avance del PIA](https://github.com/vanessalinares/MineriaDeDatos002/blob/main/Avance1_PIA_Equipo1.ipynb)
+
 ## Fase II
 
 ## Fase III
