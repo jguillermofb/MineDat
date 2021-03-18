@@ -15,4 +15,10 @@
 
 ## Fase II
 
+[Presentación Técnicas de Minería](https://github.com/vanessalinares/MineriaDeDatos002/blob/main/Presentacion_SeriesDeTiempo_Equipo1.pdf)
+
+[Ejemplo Técnicas de Minería](https://github.com/vanessalinares/MineriaDeDatos002/blob/main/EjemploSeriesDeTiempo_Equipo1.R)
+
+[Mini Examen Técnicas de Minería](https://github.com/vanessalinares/MineriaDeDatos002/blob/main/Calificaci%C3%B3n_SeriesDeTiempo_Equipo1.pdf)
+
 ## Fase III
