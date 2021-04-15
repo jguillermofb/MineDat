@@ -24,3 +24,7 @@
 [Mapa mental 2](https://github.com/jguillermofb/MineDat/blob/main/MapaMental_2_1794656.pdf)
 
 ## Fase III
+
+[Ejercicio Visualización](https://github.com/vanessalinares/MineriaDeDatos002/blob/main/Visualizacion_Equipo1.ipynb)
+
+[PIA - Segunda Entrega](https://github.com/Dayan28/MINERIA-DE-DATOS/blob/main/AvancePIA_II_02_Equipo1.ipynb)
